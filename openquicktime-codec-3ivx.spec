@@ -1,5 +1,5 @@
 Summary:	3ivX codec for OpenQuickTime
-Summary(pl):	Kodek 3ivX dla OpenQuickTime
+Summary(pl.UTF-8):   Kodek 3ivX dla OpenQuickTime
 Name:		openquicktime-codec-3ivx
 Version:	3.5
 Release:	1
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 3ivX codec for OpenQuickTime.
 
-%description -l pl
+%description -l pl.UTF-8
 Kodek 3ivX dla OpenQuickTime.
 
 %prep
